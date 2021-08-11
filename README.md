@@ -1,4 +1,5 @@
-   Create a new directory insde a repo
+ Create a new file inside a repository
 
-  This is creating a new directory inside "alx-pre_course" repository
-  also commit and push the new README.md file.
+
+this is task 1 creating two non empity README files inside
+alx-pre_course repo 

@@ -1,4 +1,4 @@
-Updated commit
+
    Update Create and setup Git and GitHub account
 
 
@@ -8,9 +8,4 @@ Updated commit
    remote server.
    
    getting into it.
-Merge branch 'main' of https://github.com/siira13/alx-pre_course into main
-# Please enter a commit message to explain why this merge is necessary,
-# especially if it merges an updated upstream into a topic branch.
-#
-# Lines starting with '#' will be ignored, and an empty message aborts
-# the commit.
+

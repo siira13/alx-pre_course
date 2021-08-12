@@ -5,3 +5,5 @@
    respository is created. git init,git add, git status,  git
    commit are appled and "My first commit" is pushed to the
    remote server.
+   
+   getting into it.

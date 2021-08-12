@@ -1,4 +1,4 @@
-   Create and setup Git and GitHub account
+   Update Create and setup Git and GitHub account
 
 
    In this task Git is installed and the first alx-pre_course
